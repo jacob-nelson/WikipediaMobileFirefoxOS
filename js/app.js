@@ -26,7 +26,7 @@ require(['https://marketplace.cdn.mozilla.net/mozmarket.js'],
 // dependencies along with jquery
 define("app", function(require) {
 require( [ 'jquery', 'lawnchair/Lawnchair', 'hogan.min', 'noclickdelay',
-	'mediawiki', '2.5.3-crypto-md5', 'urlcache', 'jquery.localize', 'iscroll-lite',
+	'mediawiki', '2.5.3-crypto-md5', 'urlcache', 'jquery.localize',
 	'leaflet/leaflet', 'propertiesFileReader', 'preferences', 'l10n-setup', 'page',
 	'templates', 'savedpages', 'chrome', 'wikiapp', 'app_history', 'search', 'geo',
 	'settings', 'langlinks', 'mobilefrontend', 'localFile', 'main' ], function ($) {
