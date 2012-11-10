@@ -2,8 +2,41 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="176a6169-c620-45bf-be7e-ce680c3c72aa" name="Default" comment="">
+      <change type="DELETED" beforePath="C:\xampp\htdocs\WikipediaMobileFirefoxOS\css\lib\x-tag\accordion.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\WikipediaMobileFirefoxOS\css\lib\x-tag\actionbar.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\WikipediaMobileFirefoxOS\css\lib\x-tag\autosuggest.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\WikipediaMobileFirefoxOS\css\lib\x-tag\flipbox.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\WikipediaMobileFirefoxOS\css\lib\x-tag\map.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\WikipediaMobileFirefoxOS\css\lib\x-tag\modal.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\WikipediaMobileFirefoxOS\css\lib\x-tag\overlay.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\WikipediaMobileFirefoxOS\css\lib\x-tag\pager.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\WikipediaMobileFirefoxOS\css\lib\x-tag\panel.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\WikipediaMobileFirefoxOS\css\lib\x-tag\slidebox.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\WikipediaMobileFirefoxOS\css\lib\x-tag\tabbox.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\WikipediaMobileFirefoxOS\js\lib\bootstrap\alert.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\WikipediaMobileFirefoxOS\js\lib\bootstrap\button.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\WikipediaMobileFirefoxOS\js\lib\bootstrap\carousel.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\WikipediaMobileFirefoxOS\js\lib\bootstrap\collapse.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\WikipediaMobileFirefoxOS\js\lib\bootstrap\dropdown.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\WikipediaMobileFirefoxOS\js\lib\bootstrap\modal.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\WikipediaMobileFirefoxOS\js\lib\bootstrap\popover.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\WikipediaMobileFirefoxOS\js\lib\bootstrap\scrollspy.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\WikipediaMobileFirefoxOS\js\lib\bootstrap\tab.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\WikipediaMobileFirefoxOS\js\lib\bootstrap\tooltip.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\WikipediaMobileFirefoxOS\js\lib\bootstrap\transition.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\WikipediaMobileFirefoxOS\js\lib\bootstrap\typeahead.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\WikipediaMobileFirefoxOS\js\lib\x-tag\accordion.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\WikipediaMobileFirefoxOS\js\lib\x-tag\actionbar.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\WikipediaMobileFirefoxOS\js\lib\x-tag\autosuggest.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\WikipediaMobileFirefoxOS\js\lib\x-tag\flipbox.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\WikipediaMobileFirefoxOS\js\lib\x-tag\map.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\WikipediaMobileFirefoxOS\js\lib\x-tag\modal.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\WikipediaMobileFirefoxOS\js\lib\x-tag\overlay.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\WikipediaMobileFirefoxOS\js\lib\x-tag\pager.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\WikipediaMobileFirefoxOS\js\lib\x-tag\panel.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\WikipediaMobileFirefoxOS\js\lib\x-tag\slidebox.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\WikipediaMobileFirefoxOS\js\lib\x-tag\tabbox.js" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/proxy.php" afterPath="$PROJECT_DIR$/proxy.php" />
     </list>
     <ignored path="WikipediaMobileFirefoxOS.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -24,26 +57,7 @@
     <favorites_list name="WikipediaMobileFirefoxOS" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/index.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="3.9230769">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="AUTHORS" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/AUTHORS">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.23463687">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf />
   </component>
   <component name="FindManager">
     <FindUsagesManager>
@@ -109,6 +123,66 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="WikipediaMobileFirefoxOS" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="WikipediaMobileFirefoxOS" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="web" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="WikipediaMobileFirefoxOS" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="WikipediaMobileFirefoxOS" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="js" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="WikipediaMobileFirefoxOS" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="WikipediaMobileFirefoxOS" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="js" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="lib" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="WikipediaMobileFirefoxOS" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="WikipediaMobileFirefoxOS" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="css" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
       <pane id="Scope" />
@@ -118,6 +192,16 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
   </component>
   <component name="RunManager">
+    <configuration default="true" type="NodeJSConfigurationType" factoryName="Node JS" working-dir="$PROJECT_DIR$">
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugSession" factoryName="Local">
+      <JSDebuggerConfigurationSettings>
+        <option name="engineId" />
+        <option name="fileUrl" />
+      </JSDebuggerConfigurationSettings>
+      <method />
+    </configuration>
     <list size="0" />
   </component>
   <component name="ShelveChangesManager" show_recycled="false" />
@@ -141,6 +225,7 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
+      <changelist id="176a6169-c620-45bf-be7e-ce680c3c72aa" name="Default" comment="" />
       <created>1352526071902</created>
       <updated>1352526071902</updated>
     </task>
@@ -148,31 +233,35 @@
       <created>1352526760869</created>
       <updated>1352526760869</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Just my personal WebStorm settings">
+      <created>1352528008941</created>
+      <updated>1352528008941</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="722" extended-state="6" />
     <editor active="false" />
     <layout>
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3291815" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3291815" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
       <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24944155" sideWeight="0.6708185" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="JsTestDriver Server" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="JsTestDriver Server" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3291815" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="VcsContentAnnotationSettings">
@@ -232,16 +321,77 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/index.html">
+    <entry file="file://$PROJECT_DIR$/AUTHORS">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="3.9230769">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/AUTHORS">
+    <entry file="file://$PROJECT_DIR$/web/platform.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.23463687">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/lib/platform-stub.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/lib/page.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-3.159292">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/app.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/image/ios/toolbar-back.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/image/button-dark-back.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wikis.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/proxy.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="20" column="140" selection-start="909" selection-end="1045" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/defaults.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="234" column="1" selection-start="8081" selection-end="8081" vertical-scroll-proportion="0.33333334">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="275" column="84" selection-start="8929" selection-end="8929" vertical-scroll-proportion="2.4664538">
           <folding />
         </state>
       </provider>
