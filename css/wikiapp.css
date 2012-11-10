@@ -198,7 +198,7 @@ button#search
 {
 	position: absolute;
 	top: 8px;
-	right: 8px;
+	right: 35px;
 	background: url(image/spr.png) -43px 5px no-repeat;
 	background: url(image/spr.png) -43px 5px no-repeat,
 	-webkit-gradient(linear, 0% 0%, 0% 100%, from(#777), color-stop(0.25, #333));
@@ -261,7 +261,7 @@ button#search
 	border: 1px solid #333;
 	margin: 2px;
 	/* z-index: 2; */
-	border-radius: 0; /* override for iphone where default is curvy */
+	border-radius: 0 5px 5px 0; /* override for iphone where default is curvy */
 }
 
 #searchParam:focus,
@@ -314,7 +314,7 @@ button#search
 	height: 24px;
 	position: absolute;
 	top: 15px;
-	right: 52px;
+	right: 80px;
 	z-index: 3;
 	display: none;
 }
@@ -451,6 +451,7 @@ button#search
 	top: 22px;
 	font-size: 14px;
 	padding-left: 0px;
+	padding-top: 10px;
 }
 
 body[dir=rtl] #settingsList .item select {
