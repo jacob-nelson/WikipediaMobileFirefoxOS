@@ -29,7 +29,7 @@ require( [ 'jquery', 'lawnchair/Lawnchair', 'hogan.min', 'noclickdelay',
 	'mediawiki', '2.5.3-crypto-md5', 'urlcache', 'jquery.localize', 'iscroll-lite',
 	'leaflet/leaflet', 'propertiesFileReader', 'preferences', 'l10n-setup', 'page',
 	'templates', 'savedpages', 'chrome', 'wikiapp', 'app_history', 'search', 'geo',
-	'settings', 'langlinks', 'mobilefrontend', 'localFile', 'platform-stub', 'main' ], function ($) {
+	'settings', 'langlinks', 'mobilefrontend', 'localFile', 'main' ], function ($) {
 		require( [ 'lawnchair/adapters/webkit-sqlite','lawnchair/adapters/memory',
 			'menu',
 			'MobileFrontend/javascripts/toggle','MobileFrontend/javascripts/references' ], function() {
