@@ -18,7 +18,6 @@ if ( preg_match( "/\.wikipedia\.org\/w\/api\.php/i", $url ) ) {
 	curl_setopt( $ch, CURLOPT_USERAGENT, $userAgent );
 	curl_setopt( $ch, CURLOPT_RETURNTRANSFER, true );
 	curl_setopt( $ch, CURLOPT_FOLLOWLOCATION, true );
-	curl_setopt( $ch, CURLOPT_SSL_VERIFYPEER, false ); // this is a hack since cURL aint configured with SSL on my system - DONT COMMIT THIS
 	curl_setopt( $ch, CURLOPT_HEADER, 0 );
 	$data = curl_exec( $ch );
 	curl_close( $ch );
