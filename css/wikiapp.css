@@ -257,17 +257,11 @@ button#search
 	background: -moz-linear-gradient(#ddd 0%, #fff 20%, #fff 80%, #eee 100%);
 	background: -ms-linear-gradient(#ddd 0%, #fff 20%, #fff 80%, #eee 100%);
 	font-size: 18px;
-	padding: 4px 28px 2px 4px;
+	padding: 4px 17px 2px 4px;
 	border: 1px solid #333;
 	margin: 2px;
 	/* z-index: 2; */
 	border-radius: 0; /* override for iphone where default is curvy */
-}
-
-#searchParam:focus,
-#searchParam.active {
-	margin: 0;
-	border: 3px solid #f86600;
 }
 
 #searchParam,
