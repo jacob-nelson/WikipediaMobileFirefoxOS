@@ -114,7 +114,7 @@ window.savedPages = function() {
 	}
 
 	function deleteSavedPage(title, url) {
-		chrome.confirm(mw.message('saved-page-remove-prompt', title).plain()).done(function(answer) {
+		answer = confirm(mw.message('saved-page-remove-prompt', title).plain());
 			if (answer) {
 				var savedPagesDB = new Lawnchair({name:"savedPagesDB"}, function() {
 					this.remove(url, function() {
@@ -123,7 +123,7 @@ window.savedPages = function() {
 					});
 				});
 			}
-		});
+		
 	}
 
 	// Removes all the elements from saved pages
