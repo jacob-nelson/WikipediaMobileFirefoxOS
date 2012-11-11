@@ -76,13 +76,14 @@ window.chrome = function() {
 	}
 
 	function confirm(text) {
+		/*
 		var d = $.Deferred();
 
 		navigator.notification.confirm(text, function(button) {
 			d.resolve(button === 1); //Assumes first button is OK
 		}, "");
-
-		return d;
+		*/
+		return window.confirm(text);
 	}
 	function initialize() {
 		$.each(platform_initializers, function(index, fun) {
